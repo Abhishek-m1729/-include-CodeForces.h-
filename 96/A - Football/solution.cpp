@@ -1,0 +1,17 @@
+#include <iostream>
+#include <string>
+using namespace std;
+int main()
+{
+    string str;
+    cin >> str;
+    
+    if(str.find("1111111") != string::npos || str.find("0000000") != string::npos)
+        cout << "YES" << "
+";
+    else 
+        cout << "NO" << "
+";
+        
+    return 0;
+}
