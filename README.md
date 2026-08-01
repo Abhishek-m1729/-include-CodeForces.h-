@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 190 | 21 |
+| 191 | 22 |
 
 ---
 
@@ -16,6 +16,7 @@
 - [binary search](#binary-search) (8)
 - [bitmasks](#bitmasks) (3)
 - [brute force](#brute-force) (32)
+- [combinatorics](#combinatorics) (1)
 - [constructive algorithms](#constructive-algorithms) (9)
 - [data structures](#data-structures) (4)
 - [dp](#dp) (6)
@@ -25,12 +26,12 @@
 - [graph matchings](#graph-matchings) (1)
 - [greedy](#greedy) (39)
 - [hashing](#hashing) (2)
-- [implementation](#implementation) (117)
+- [implementation](#implementation) (118)
 - [math](#math) (71)
 - [number theory](#number-theory) (12)
 - [schedules](#schedules) (1)
 - [shortest paths](#shortest-paths) (1)
-- [sortings](#sortings) (22)
+- [sortings](#sortings) (23)
 - [strings](#strings) (31)
 - [two pointers](#two-pointers) (3)
 
@@ -100,6 +101,12 @@
 | 2218E | [The 67th XOR Problem](https://codeforces.com/contest/2218/problem/E) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/Abhishek-m1729/-include-CodeForces.h-/blob/HEAD/2218/E%20-%20The%2067th%20XOR%20Problem/solution.cpp) |
 | 2229A | [Slimes on a Line](https://codeforces.com/contest/2229/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Abhishek-m1729/-include-CodeForces.h-/blob/HEAD/2229/A%20-%20Slimes%20on%20a%20Line/solution.cpp) |
 | 2233A | [AI Project Development](https://codeforces.com/contest/2233/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Abhishek-m1729/-include-CodeForces.h-/blob/HEAD/2233/A%20-%20AI%20Project%20Development/solution.cpp) |
+
+### combinatorics
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 459B | [Pashmak and Flowers](https://codeforces.com/contest/459/problem/B) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/Abhishek-m1729/-include-CodeForces.h-/blob/HEAD/459/B%20-%20Pashmak%20and%20Flowers/solution.cpp) |
 
 ### constructive algorithms
 
@@ -258,6 +265,7 @@
 | 427A | [Police Recruits](https://codeforces.com/contest/427/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Abhishek-m1729/-include-CodeForces.h-/blob/HEAD/427/A%20-%20Police%20Recruits/solution.cpp) |
 | 443A | [Anton and Letters](https://codeforces.com/contest/443/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Abhishek-m1729/-include-CodeForces.h-/blob/HEAD/443/A%20-%20Anton%20and%20Letters/solution.cpp) |
 | 451B | [Sort the Array](https://codeforces.com/contest/451/problem/B) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/Abhishek-m1729/-include-CodeForces.h-/blob/HEAD/451/B%20-%20Sort%20the%20Array/solution.cpp) |
+| 459B | [Pashmak and Flowers](https://codeforces.com/contest/459/problem/B) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/Abhishek-m1729/-include-CodeForces.h-/blob/HEAD/459/B%20-%20Pashmak%20and%20Flowers/solution.cpp) |
 | 460A | [Vasya and Socks](https://codeforces.com/contest/460/problem/A) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Abhishek-m1729/-include-CodeForces.h-/blob/HEAD/460/A%20-%20Vasya%20and%20Socks/solution.cpp) |
 | 466A | [Cheap Travel](https://codeforces.com/contest/466/problem/A) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/Abhishek-m1729/-include-CodeForces.h-/blob/HEAD/466/A%20-%20Cheap%20Travel/solution.cpp) |
 | 467A | [George and Accommodation](https://codeforces.com/contest/467/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Abhishek-m1729/-include-CodeForces.h-/blob/HEAD/467/A%20-%20George%20and%20Accommodation/solution.cpp) |
@@ -452,6 +460,7 @@
 | 405A | [Gravity Flip](https://codeforces.com/contest/405/problem/A) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Abhishek-m1729/-include-CodeForces.h-/blob/HEAD/405/A%20-%20Gravity%20Flip/solution.cpp) |
 | 451B | [Sort the Array](https://codeforces.com/contest/451/problem/B) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/Abhishek-m1729/-include-CodeForces.h-/blob/HEAD/451/B%20-%20Sort%20the%20Array/solution.cpp) |
 | 456A | [Laptops](https://codeforces.com/contest/456/problem/A) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/Abhishek-m1729/-include-CodeForces.h-/blob/HEAD/456/A%20-%20Laptops/solution.cpp) |
+| 459B | [Pashmak and Flowers](https://codeforces.com/contest/459/problem/B) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/Abhishek-m1729/-include-CodeForces.h-/blob/HEAD/459/B%20-%20Pashmak%20and%20Flowers/solution.cpp) |
 | 490A | [Team Olympiad](https://codeforces.com/contest/490/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Abhishek-m1729/-include-CodeForces.h-/blob/HEAD/490/A%20-%20Team%20Olympiad/solution.cpp) |
 | 492B | [Vanya and Lanterns](https://codeforces.com/contest/492/problem/B) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/Abhishek-m1729/-include-CodeForces.h-/blob/HEAD/492/B%20-%20Vanya%20and%20Lanterns/solution.cpp) |
 | 723A | [The New Year: Meeting Friends](https://codeforces.com/contest/723/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Abhishek-m1729/-include-CodeForces.h-/blob/HEAD/723/A%20-%20The%20New%20Year%3A%20Meeting%20Friends/solution.cpp) |
