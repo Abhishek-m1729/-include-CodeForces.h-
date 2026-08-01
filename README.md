@@ -6,13 +6,14 @@
 
 | Total Problems | Topics |
 |---|---|
-| 192 | 22 |
+| 193 | 23 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [*special](#special) (2)
+- [Uncategorized](#uncategorized) (1)
 - [binary search](#binary-search) (8)
 - [bitmasks](#bitmasks) (3)
 - [brute force](#brute-force) (32)
@@ -43,6 +44,12 @@
 |---|---------|------------|----------|
 | 158A | [Next Round](https://codeforces.com/contest/158/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Abhishek-m1729/-include-CodeForces.h-/blob/HEAD/158/A%20-%20Next%20Round/solution.cpp) |
 | 158B | [Taxi](https://codeforces.com/contest/158/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/Abhishek-m1729/-include-CodeForces.h-/blob/HEAD/158/B%20-%20Taxi/solution.cpp) |
+
+### Uncategorized
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2248A | [You Delete, I Delete](https://codeforces.com/contest/2248/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Abhishek-m1729/-include-CodeForces.h-/blob/HEAD/2248/A%20-%20You%20Delete%2C%20I%20Delete/solution.cpp) |
 
 ### binary search
 
