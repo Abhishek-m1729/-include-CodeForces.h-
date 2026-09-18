@@ -1,23 +1,34 @@
 #include <bits/stdc++.h>
+#define endl '
+'
 using namespace std;
  
-int main() {
-	int n;
-	cin >> n;
-	
-	int sa = 0, sb = 0, sc = 0;
-	
-	while(n--){
-	    int a, b, c;
-	    cin >> a >> b >> c;
-	  
-	    sa += a; sb += b; sc += c;
-	}
-	
-	if(sa+sb+sc == 0 && sa == sb && sb == sc) cout << "YES" << "
-";
-	else cout << "NO" << "
-";
-	
+void solution()
+{
+    int n;
+    cin >> n;
+ 
+    int forceX = 0, forceY = 0, forceZ = 0;
+    while(n --)
+    {
+        int x, y, z;
+        cin >> x >> y >> z;
+ 
+        forceX += x;
+        forceY += y;
+        forceZ += z;
+    }
+ 
+    if(forceX == 0 && forceY ==0 && forceZ == 0) cout << "YES" << endl;
+    else cout << "NO" << endl;
+}
+ 
+int main()
+{
+    ios::sync_with_stdio(false);
+    cin.tie(nullptr);
+    
+    solution();
+ 
     return 0;
 }
