@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 220 | 25 |
+| 218 | 25 |
 
 ---
 
@@ -14,12 +14,12 @@
 
 - [*special](#special) (2)
 - [Uncategorized](#uncategorized) (1)
-- [binary search](#binary-search) (11)
+- [binary search](#binary-search) (12)
 - [bitmasks](#bitmasks) (3)
 - [brute force](#brute-force) (37)
 - [combinatorics](#combinatorics) (1)
 - [constructive algorithms](#constructive-algorithms) (9)
-- [data structures](#data-structures) (8)
+- [data structures](#data-structures) (9)
 - [dfs and similar](#dfs-and-similar) (1)
 - [dp](#dp) (8)
 - [expression parsing](#expression-parsing) (2)
@@ -27,7 +27,7 @@
 - [geometry](#geometry) (2)
 - [graph matchings](#graph-matchings) (1)
 - [graphs](#graphs) (1)
-- [greedy](#greedy) (48)
+- [greedy](#greedy) (49)
 - [hashing](#hashing) (2)
 - [implementation](#implementation) (129)
 - [math](#math) (82)
@@ -68,6 +68,7 @@
 | 1476A | [K-divisible Sum](https://codeforces.com/contest/1476/problem/A) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Abhishek-m1729/-include-CodeForces.h-/blob/HEAD/1476/A%20-%20K-divisible%20Sum/solution.cpp) |
 | 2197A | [Friendly Numbers](https://codeforces.com/contest/2197/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Abhishek-m1729/-include-CodeForces.h-/blob/HEAD/2197/A%20-%20Friendly%20Numbers/solution.cpp) |
 | 2218E | [The 67th XOR Problem](https://codeforces.com/contest/2218/problem/E) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/Abhishek-m1729/-include-CodeForces.h-/blob/HEAD/2218/E%20-%20The%2067th%20XOR%20Problem/solution.cpp) |
+| 2254E | [Chronostasis](https://codeforces.com/contest/2254/problem/E) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/Abhishek-m1729/-include-CodeForces.h-/blob/HEAD/2254/E%20-%20Chronostasis/solution.cpp) |
 
 ### bitmasks
 
@@ -151,6 +152,7 @@
 | 1760C | [Advantage](https://codeforces.com/contest/1760/problem/C) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Abhishek-m1729/-include-CodeForces.h-/blob/HEAD/1760/C%20-%20Advantage/solution.cpp) |
 | 2210B | [Simply Sitting on Chairs](https://codeforces.com/contest/2210/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Abhishek-m1729/-include-CodeForces.h-/blob/HEAD/2210/B%20-%20Simply%20Sitting%20on%20Chairs/solution.cpp) |
 | 2252A | [Boss Fight](https://codeforces.com/contest/2252/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Abhishek-m1729/-include-CodeForces.h-/blob/HEAD/2252/A%20-%20Boss%20Fight/solution.cpp) |
+| 2254E | [Chronostasis](https://codeforces.com/contest/2254/problem/E) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/Abhishek-m1729/-include-CodeForces.h-/blob/HEAD/2254/E%20-%20Chronostasis/solution.cpp) |
 
 ### dfs and similar
 
@@ -255,6 +257,7 @@
 | 2252A | [Boss Fight](https://codeforces.com/contest/2252/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Abhishek-m1729/-include-CodeForces.h-/blob/HEAD/2252/A%20-%20Boss%20Fight/solution.cpp) |
 | 2253A | [The Best Card](https://codeforces.com/contest/2253/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Abhishek-m1729/-include-CodeForces.h-/blob/HEAD/2253/A%20-%20The%20Best%20Card/solution.cpp) |
 | 2254C1 | [Marenol (easy version)](https://codeforces.com/contest/2254/problem/C1) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Abhishek-m1729/-include-CodeForces.h-/blob/HEAD/2254/C1%20-%20Marenol%20(easy%20version)/solution.cpp) |
+| 2254E | [Chronostasis](https://codeforces.com/contest/2254/problem/E) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/Abhishek-m1729/-include-CodeForces.h-/blob/HEAD/2254/E%20-%20Chronostasis/solution.cpp) |
 | 2259A | [Moo Language School](https://codeforces.com/contest/2259/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Abhishek-m1729/-include-CodeForces.h-/blob/HEAD/2259/A%20-%20Moo%20Language%20School/solution.cpp) |
 
 ### hashing
