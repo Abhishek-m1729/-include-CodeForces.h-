@@ -6,14 +6,14 @@
 
 | Total Problems | Topics |
 |---|---|
-| 219 | 25 |
+| 220 | 25 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [*special](#special) (2)
-- [Uncategorized](#uncategorized) (2)
+- [Uncategorized](#uncategorized) (3)
 - [binary search](#binary-search) (12)
 - [bitmasks](#bitmasks) (3)
 - [brute force](#brute-force) (37)
@@ -52,6 +52,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 2266A | [Good Contest](https://codeforces.com/contest/2266/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Abhishek-m1729/-include-CodeForces.h-/blob/HEAD/2266/A%20-%20Good%20Contest/solution.cpp) |
+| 2266B | [Three Piles](https://codeforces.com/contest/2266/problem/B) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Abhishek-m1729/-include-CodeForces.h-/blob/HEAD/2266/B%20-%20Three%20Piles/solution.cpp) |
 | 102644C | [Fibonacci](https://codeforces.com/contest/102644/problem/C) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Abhishek-m1729/-include-CodeForces.h-/blob/HEAD/102644/C%20-%20Fibonacci/solution.cpp) |
 
 ### binary search
