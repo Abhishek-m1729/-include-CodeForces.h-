@@ -1,18 +1,24 @@
 #include <bits/stdc++.h>
 #define endl '
 '
-#define yes cout << "YES" << endl 
-#define no cout << "NO" << endl 
+#define yes cout << "YES" << endl
+#define no cout << "NO" << endl
 using ll = long long;
 using namespace std;
  
 bool solution()
 {
-    int n;
+    ll n;
     cin >> n;
+ 
+    if(n % 11 == 0 || n % 111 == 0) return true;
     
-    int rem = n % 11;
-    if(111*rem <= n) return true;
+    while(n > 0)
+    {
+        if(n % 11 == 0) return true;
+        n -= 111;
+    }
+    
     return false;
 }
  
