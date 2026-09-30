@@ -6,19 +6,19 @@
 
 | Total Problems | Topics |
 |---|---|
-| 229 | 25 |
+| 231 | 25 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [*special](#special) (2)
+- [*special](#special) (4)
 - [Uncategorized](#uncategorized) (5)
 - [binary search](#binary-search) (12)
 - [bitmasks](#bitmasks) (3)
 - [brute force](#brute-force) (40)
-- [combinatorics](#combinatorics) (1)
-- [constructive algorithms](#constructive-algorithms) (11)
+- [combinatorics](#combinatorics) (2)
+- [constructive algorithms](#constructive-algorithms) (12)
 - [data structures](#data-structures) (9)
 - [dfs and similar](#dfs-and-similar) (1)
 - [dp](#dp) (10)
@@ -46,6 +46,8 @@
 |---|---------|------------|----------|
 | 158A | [Next Round](https://codeforces.com/contest/158/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Abhishek-m1729/-include-CodeForces.h-/blob/HEAD/158/A%20-%20Next%20Round/solution.cpp) |
 | 158B | [Taxi](https://codeforces.com/contest/158/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/Abhishek-m1729/-include-CodeForces.h-/blob/HEAD/158/B%20-%20Taxi/solution.cpp) |
+| 171A | [Mysterious numbers - 1](https://codeforces.com/contest/171/problem/A) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/Abhishek-m1729/-include-CodeForces.h-/blob/HEAD/171/A%20-%20Mysterious%20numbers%20-%201/solution.cpp) |
+| 171B | [Star](https://codeforces.com/contest/171/problem/B) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/Abhishek-m1729/-include-CodeForces.h-/blob/HEAD/171/B%20-%20Star/solution.cpp) |
 
 ### Uncategorized
 
@@ -131,6 +133,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 171B | [Star](https://codeforces.com/contest/171/problem/B) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/Abhishek-m1729/-include-CodeForces.h-/blob/HEAD/171/B%20-%20Star/solution.cpp) |
 | 459B | [Pashmak and Flowers](https://codeforces.com/contest/459/problem/B) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/Abhishek-m1729/-include-CodeForces.h-/blob/HEAD/459/B%20-%20Pashmak%20and%20Flowers/solution.cpp) |
 
 ### constructive algorithms
@@ -138,6 +141,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 148A | [Insomnia cure](https://codeforces.com/contest/148/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Abhishek-m1729/-include-CodeForces.h-/blob/HEAD/148/A%20-%20Insomnia%20cure/solution.cpp) |
+| 171A | [Mysterious numbers - 1](https://codeforces.com/contest/171/problem/A) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/Abhishek-m1729/-include-CodeForces.h-/blob/HEAD/171/A%20-%20Mysterious%20numbers%20-%201/solution.cpp) |
 | 266B | [Queue at the School](https://codeforces.com/contest/266/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Abhishek-m1729/-include-CodeForces.h-/blob/HEAD/266/B%20-%20Queue%20at%20the%20School/solution.cpp) |
 | 443A | [Anton and Letters](https://codeforces.com/contest/443/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Abhishek-m1729/-include-CodeForces.h-/blob/HEAD/443/A%20-%20Anton%20and%20Letters/solution.cpp) |
 | 732A | [Buy a Shovel](https://codeforces.com/contest/732/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Abhishek-m1729/-include-CodeForces.h-/blob/HEAD/732/A%20-%20Buy%20a%20Shovel/solution.cpp) |
