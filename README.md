@@ -6,14 +6,14 @@
 
 | Total Problems | Topics |
 |---|---|
-| 239 | 25 |
+| 240 | 25 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [*special](#special) (5)
-- [Uncategorized](#uncategorized) (7)
+- [Uncategorized](#uncategorized) (8)
 - [binary search](#binary-search) (13)
 - [bitmasks](#bitmasks) (3)
 - [brute force](#brute-force) (41)
@@ -60,6 +60,7 @@
 | 2269C | [K Is Important](https://codeforces.com/contest/2269/problem/C) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Abhishek-m1729/-include-CodeForces.h-/blob/HEAD/2269/C%20-%20K%20Is%20Important/solution.cpp) |
 | 2275A | [In Search of Convenience](https://codeforces.com/contest/2275/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Abhishek-m1729/-include-CodeForces.h-/blob/HEAD/2275/A%20-%20In%20Search%20of%20Convenience/solution.cpp) |
 | 2275B | [Did Not Go to Print](https://codeforces.com/contest/2275/problem/B) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Abhishek-m1729/-include-CodeForces.h-/blob/HEAD/2275/B%20-%20Did%20Not%20Go%20to%20Print/solution.cpp) |
+| 2275C | [Unrequited Love](https://codeforces.com/contest/2275/problem/C) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Abhishek-m1729/-include-CodeForces.h-/blob/HEAD/2275/C%20-%20Unrequited%20Love/solution.cpp) |
 | 102644C | [Fibonacci](https://codeforces.com/contest/102644/problem/C) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Abhishek-m1729/-include-CodeForces.h-/blob/HEAD/102644/C%20-%20Fibonacci/solution.cpp) |
 
 ### binary search
