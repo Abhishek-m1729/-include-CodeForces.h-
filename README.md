@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 241 | 25 |
+| 243 | 25 |
 
 ---
 
@@ -16,25 +16,25 @@
 - [Uncategorized](#uncategorized) (8)
 - [binary search](#binary-search) (13)
 - [bitmasks](#bitmasks) (3)
-- [brute force](#brute-force) (41)
+- [brute force](#brute-force) (42)
 - [combinatorics](#combinatorics) (2)
 - [constructive algorithms](#constructive-algorithms) (13)
 - [data structures](#data-structures) (11)
 - [dfs and similar](#dfs-and-similar) (1)
-- [dp](#dp) (12)
+- [dp](#dp) (13)
 - [expression parsing](#expression-parsing) (2)
 - [games](#games) (2)
 - [geometry](#geometry) (3)
 - [graph matchings](#graph-matchings) (1)
 - [graphs](#graphs) (1)
-- [greedy](#greedy) (54)
+- [greedy](#greedy) (55)
 - [hashing](#hashing) (2)
-- [implementation](#implementation) (133)
-- [math](#math) (89)
+- [implementation](#implementation) (134)
+- [math](#math) (90)
 - [number theory](#number-theory) (20)
 - [schedules](#schedules) (1)
 - [shortest paths](#shortest-paths) (2)
-- [sortings](#sortings) (30)
+- [sortings](#sortings) (31)
 - [strings](#strings) (33)
 - [two pointers](#two-pointers) (10)
 
@@ -122,6 +122,7 @@
 | 1873A | [Short Sort](https://codeforces.com/contest/1873/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Abhishek-m1729/-include-CodeForces.h-/blob/HEAD/1873/A%20-%20Short%20Sort/solution.cpp) |
 | 1881A | [Don't Try to Count](https://codeforces.com/contest/1881/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Abhishek-m1729/-include-CodeForces.h-/blob/HEAD/1881/A%20-%20Don't%20Try%20to%20Count/solution.cpp) |
 | 1903A | [Halloumi Boxes](https://codeforces.com/contest/1903/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Abhishek-m1729/-include-CodeForces.h-/blob/HEAD/1903/A%20-%20Halloumi%20Boxes/solution.cpp) |
+| 1914D | [Three Activities](https://codeforces.com/contest/1914/problem/D) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/Abhishek-m1729/-include-CodeForces.h-/blob/HEAD/1914/D%20-%20Three%20Activities/solution.cpp) |
 | 2009A | [Minimize!](https://codeforces.com/contest/2009/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Abhishek-m1729/-include-CodeForces.h-/blob/HEAD/2009/A%20-%20Minimize!/solution.cpp) |
 | 2009B | [osu!mania](https://codeforces.com/contest/2009/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Abhishek-m1729/-include-CodeForces.h-/blob/HEAD/2009/B%20-%20osu!mania/solution.cpp) |
 | 2126A | [Only One Digit](https://codeforces.com/contest/2126/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Abhishek-m1729/-include-CodeForces.h-/blob/HEAD/2126/A%20-%20Only%20One%20Digit/solution.cpp) |
@@ -195,6 +196,7 @@
 | 996A | [Hit the Lottery](https://codeforces.com/contest/996/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Abhishek-m1729/-include-CodeForces.h-/blob/HEAD/996/A%20-%20Hit%20the%20Lottery/solution.cpp) |
 | 1526B | [I Hate 1111](https://codeforces.com/contest/1526/problem/B) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/Abhishek-m1729/-include-CodeForces.h-/blob/HEAD/1526/B%20-%20I%20Hate%201111/solution.cpp) |
 | 1883C | [Raspberries](https://codeforces.com/contest/1883/problem/C) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Abhishek-m1729/-include-CodeForces.h-/blob/HEAD/1883/C%20-%20Raspberries/solution.cpp) |
+| 1914D | [Three Activities](https://codeforces.com/contest/1914/problem/D) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/Abhishek-m1729/-include-CodeForces.h-/blob/HEAD/1914/D%20-%20Three%20Activities/solution.cpp) |
 | 2208C | [Stamina and Tasks](https://codeforces.com/contest/2208/problem/C) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/Abhishek-m1729/-include-CodeForces.h-/blob/HEAD/2208/C%20-%20Stamina%20and%20Tasks/solution.cpp) |
 | 2210A | [A Simple Sequence](https://codeforces.com/contest/2210/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Abhishek-m1729/-include-CodeForces.h-/blob/HEAD/2210/A%20-%20A%20Simple%20Sequence/solution.cpp) |
 | 2267D | [Backrooms Hill](https://codeforces.com/contest/2267/problem/D) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/Abhishek-m1729/-include-CodeForces.h-/blob/HEAD/2267/D%20-%20Backrooms%20Hill/solution.cpp) |
@@ -272,6 +274,7 @@
 | 1878A | [How Much Does Daytona Cost?](https://codeforces.com/contest/1878/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Abhishek-m1729/-include-CodeForces.h-/blob/HEAD/1878/A%20-%20How%20Much%20Does%20Daytona%20Cost%3F/solution.cpp) |
 | 1901A | [Line Trip](https://codeforces.com/contest/1901/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Abhishek-m1729/-include-CodeForces.h-/blob/HEAD/1901/A%20-%20Line%20Trip/solution.cpp) |
 | 1903A | [Halloumi Boxes](https://codeforces.com/contest/1903/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Abhishek-m1729/-include-CodeForces.h-/blob/HEAD/1903/A%20-%20Halloumi%20Boxes/solution.cpp) |
+| 1914D | [Three Activities](https://codeforces.com/contest/1914/problem/D) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/Abhishek-m1729/-include-CodeForces.h-/blob/HEAD/1914/D%20-%20Three%20Activities/solution.cpp) |
 | 1921A | [Square](https://codeforces.com/contest/1921/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Abhishek-m1729/-include-CodeForces.h-/blob/HEAD/1921/A%20-%20Square/solution.cpp) |
 | 2194A | [Lawn Mower](https://codeforces.com/contest/2194/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Abhishek-m1729/-include-CodeForces.h-/blob/HEAD/2194/A%20-%20Lawn%20Mower/solution.cpp) |
 | 2208C | [Stamina and Tasks](https://codeforces.com/contest/2208/problem/C) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/Abhishek-m1729/-include-CodeForces.h-/blob/HEAD/2208/C%20-%20Stamina%20and%20Tasks/solution.cpp) |
@@ -415,6 +418,7 @@
 | 1850B | [Ten Words of Wisdom](https://codeforces.com/contest/1850/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Abhishek-m1729/-include-CodeForces.h-/blob/HEAD/1850/B%20-%20Ten%20Words%20of%20Wisdom/solution.cpp) |
 | 1850C | [Word on the Paper](https://codeforces.com/contest/1850/problem/C) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Abhishek-m1729/-include-CodeForces.h-/blob/HEAD/1850/C%20-%20Word%20on%20the%20Paper/solution.cpp) |
 | 1873A | [Short Sort](https://codeforces.com/contest/1873/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Abhishek-m1729/-include-CodeForces.h-/blob/HEAD/1873/A%20-%20Short%20Sort/solution.cpp) |
+| 1914D | [Three Activities](https://codeforces.com/contest/1914/problem/D) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/Abhishek-m1729/-include-CodeForces.h-/blob/HEAD/1914/D%20-%20Three%20Activities/solution.cpp) |
 | 1915A | [Odd One Out](https://codeforces.com/contest/1915/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Abhishek-m1729/-include-CodeForces.h-/blob/HEAD/1915/A%20-%20Odd%20One%20Out/solution.cpp) |
 | 1926A | [Vlad and the Best of Five](https://codeforces.com/contest/1926/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Abhishek-m1729/-include-CodeForces.h-/blob/HEAD/1926/A%20-%20Vlad%20and%20the%20Best%20of%20Five/solution.cpp) |
 | 1950A | [Stair, Peak, or Neither?](https://codeforces.com/contest/1950/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Abhishek-m1729/-include-CodeForces.h-/blob/HEAD/1950/A%20-%20Stair%2C%20Peak%2C%20or%20Neither%3F/solution.cpp) |
@@ -500,6 +504,7 @@
 | 1542A | [Odd Set](https://codeforces.com/contest/1542/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Abhishek-m1729/-include-CodeForces.h-/blob/HEAD/1542/A%20-%20Odd%20Set/solution.cpp) |
 | 1788A | [One and Two](https://codeforces.com/contest/1788/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Abhishek-m1729/-include-CodeForces.h-/blob/HEAD/1788/A%20-%20One%20and%20Two/solution.cpp) |
 | 1857A | [Array Coloring](https://codeforces.com/contest/1857/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Abhishek-m1729/-include-CodeForces.h-/blob/HEAD/1857/A%20-%20Array%20Coloring/solution.cpp) |
+| 1866A | [Ambitious Kid](https://codeforces.com/contest/1866/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Abhishek-m1729/-include-CodeForces.h-/blob/HEAD/1866/A%20-%20Ambitious%20Kid/solution.cpp) |
 | 1883C | [Raspberries](https://codeforces.com/contest/1883/problem/C) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Abhishek-m1729/-include-CodeForces.h-/blob/HEAD/1883/C%20-%20Raspberries/solution.cpp) |
 | 1899A | [Game with Integers](https://codeforces.com/contest/1899/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Abhishek-m1729/-include-CodeForces.h-/blob/HEAD/1899/A%20-%20Game%20with%20Integers/solution.cpp) |
 | 1901A | [Line Trip](https://codeforces.com/contest/1901/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Abhishek-m1729/-include-CodeForces.h-/blob/HEAD/1901/A%20-%20Line%20Trip/solution.cpp) |
@@ -595,6 +600,7 @@
 | 1850A | [To My Critics](https://codeforces.com/contest/1850/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Abhishek-m1729/-include-CodeForces.h-/blob/HEAD/1850/A%20-%20To%20My%20Critics/solution.cpp) |
 | 1850B | [Ten Words of Wisdom](https://codeforces.com/contest/1850/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Abhishek-m1729/-include-CodeForces.h-/blob/HEAD/1850/B%20-%20Ten%20Words%20of%20Wisdom/solution.cpp) |
 | 1903A | [Halloumi Boxes](https://codeforces.com/contest/1903/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Abhishek-m1729/-include-CodeForces.h-/blob/HEAD/1903/A%20-%20Halloumi%20Boxes/solution.cpp) |
+| 1914D | [Three Activities](https://codeforces.com/contest/1914/problem/D) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/Abhishek-m1729/-include-CodeForces.h-/blob/HEAD/1914/D%20-%20Three%20Activities/solution.cpp) |
 | 2167A | [Square?](https://codeforces.com/contest/2167/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Abhishek-m1729/-include-CodeForces.h-/blob/HEAD/2167/A%20-%20Square%3F/solution.cpp) |
 | 2167B | [Your Name](https://codeforces.com/contest/2167/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Abhishek-m1729/-include-CodeForces.h-/blob/HEAD/2167/B%20-%20Your%20Name/solution.cpp) |
 | 2195B | [Heapify 1](https://codeforces.com/contest/2195/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Abhishek-m1729/-include-CodeForces.h-/blob/HEAD/2195/B%20-%20Heapify%201/solution.cpp) |
