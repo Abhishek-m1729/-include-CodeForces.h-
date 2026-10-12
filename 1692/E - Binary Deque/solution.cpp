@@ -1,0 +1,52 @@
+#include <bits/stdc++.h>
+#define endl '
+'
+using namespace std;
+ 
+int solution()
+{
+    int n, s;
+    cin >> n >> s;
+ 
+    vector<int> a(n);
+ 
+    int total = 0;
+    for(auto &ele : a)
+    {
+        cin >> ele;
+        total += ele;
+    }
+ 
+    if(total < s) return -1;
+ 
+    int l = 0;
+    int cur = 0;
+    int mx = -1;
+ 
+    for(int r=0; r<n; ++r)
+    {
+        cur += a[r];
+        while(l <= r && cur > s)
+        {
+            cur -= a[l];
+            l++;
+        }
+ 
+        if(cur == s) mx = max(mx, r - l + 1);
+    }
+ 
+    return n - mx;
+}
+ 
+int main()
+{
+    ios::sync_with_stdio(false);
+    cin.tie(nullptr);
+ 
+    int t;
+    cin >> t;
+ 
+    while(t--) cout << solution() << endl;
+ 
+    return 0;
+}
